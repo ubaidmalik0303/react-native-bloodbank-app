@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041034639993",
+    "project_id": "blood-bank-app-reactnative",
+    "storage_bucket": "blood-bank-app-reactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041034639993:android:78d1b4769e626f1203b2a8",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041034639993-lrs8m95l76abpj68njhd5u7c98uvluj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHP486bvMwLCrNu14P5SrTTPV_1Gn44LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041034639993-lrs8m95l76abpj68njhd5u7c98uvluj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
